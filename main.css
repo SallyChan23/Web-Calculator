@@ -11,13 +11,7 @@ h1{
 	margin-bottom: 0px;
 }
 .clock {
-    position: relative;
-    top: 40px;
-    left: 10px;
     color: #000000;
-    font-size: 30px;
-    letter-spacing: 7px;
-    margin: 0;
 }
 
 body{
@@ -25,7 +19,6 @@ body{
 }
 
 .app{
-	margin-top: -40px;
     display: flex;
     justify-content: center;
     align-items: center;
